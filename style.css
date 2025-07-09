@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 200px;
+    height: 180px;
+    padding: 10px;
+}
+h1{
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+button{
+    padding: 8px 12px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+#weather_result{
+    margin-top: 10px;
+    font-size: 12px;
+}
